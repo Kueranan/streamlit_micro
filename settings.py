@@ -25,8 +25,8 @@ SOURCES_LIST = [IMAGE] # VIDEO, WEBCAM, RTSP, YOUTUBE
 
 # Images config
 IMAGES_DIR = ROOT / 'images'
-DEFAULT_IMAGE = IMAGES_DIR / 'micro_.png'
-DEFAULT_DETECT_IMAGE = IMAGES_DIR / 'micro_Detect.png'
+DEFAULT_IMAGE = IMAGES_DIR / 'micro_class.png'
+DEFAULT_DETECT_IMAGE = IMAGES_DIR / 'micro_detect_1.png'
 
 # Videos config
 VIDEO_DIR = ROOT / 'videos'
