@@ -20,7 +20,7 @@ st.set_page_config(
 )
 
 # Main page heading
-st.title("Object Detection Microplastic using YOLOv8")
+st.title("microplastics-detection")
 
 coil, coli1, coli2 = st.columns(3)
 coil.metric("Precission", "99 %")
